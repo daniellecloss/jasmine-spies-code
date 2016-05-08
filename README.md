@@ -1,2 +1,2 @@
-new code files for jasmine spies lightning talk
+new code files for jasmine spies lightning talk.
 
