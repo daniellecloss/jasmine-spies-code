@@ -4,6 +4,7 @@ var Spy = function() {};
 Spy.api_data = {};
 
 // this is the function we are testing
+// recognize this guy here?? Look ma, no data! :)
 Spy.call_api = function(spy_name){
     if(spy_name === '' || this.api_data.data[spy_name] === undefined){
         return this.api_data.error;
